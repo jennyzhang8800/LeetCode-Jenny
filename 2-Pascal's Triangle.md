@@ -63,7 +63,6 @@ AC
 **参考代码**
 
 
-参考一：
 ```
 class Solution(object):
    def generate(self, numRows):
@@ -84,3 +83,7 @@ class Solution(object):
  +  0 1 3 3 1
  =  1 4 6 4 1
 ```
+
+
+**附：有关杨辉三角的参考**
+http://www.mathsisfun.com/pascals-triangle.html
