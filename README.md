@@ -1,5 +1,6 @@
 # LeetCode-Jenny
 This is a Repo for LeetCode 
+
 ###目录
 
 * [0-Contains Duplicate II（包含重复II)](https://github.com/jennyzhang8800/LeetCode-Jenny/blob/master/0-Contains%20Duplicate%20II.md)
