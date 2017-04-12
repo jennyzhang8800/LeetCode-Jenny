@@ -1,7 +1,7 @@
 # LeetCode-Jenny
 This is a Repo for LeetCode 
 
-###目录
+## 目录
 
 * [0-Contains Duplicate II（包含重复II)](https://github.com/jennyzhang8800/LeetCode-Jenny/blob/master/0-Contains%20Duplicate%20II.md)
 * [1-Search Insert Position(查找插入位置)](https://github.com/jennyzhang8800/LeetCode-Jenny/blob/master/1-Search%20Insert%20Position.md)
